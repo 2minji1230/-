@@ -1,0 +1,12 @@
+# 파일
+.Rhistory
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.txt
+*.gif
+*.csv
+
+# 폴더
+.ipynb_checkpoints
